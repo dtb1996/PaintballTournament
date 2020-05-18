@@ -1,9 +1,7 @@
 # PaintballTournament
 A first-person paintball game that is won by fending off the opposing team and stealing their flag.
 
-****************************************************************************************
-
-Attributions
+## Attributions
 
 Paintball gun:
 MG13 PaintBall Gun by SDHARDWARE
@@ -29,21 +27,19 @@ Enemy character and animations:
 David from mixamo.com
 https://www.mixamo.com/#/?page=2&type=Character
 
-****************************************************************************************
-
-Description
+## Description
 
 This artifact is a first-person paintball tournament simulator, originally created as part of the Game 
 Programming and Development coursework at Southern New Hampshire University. This version, refined in the final capstone course, includes AI opponents and additional game mechanics based on the first-person shooter genre. The goal of this game is to capture the other team's flag while avoiding their offensive attacks.
 
-Tools Used
+## Tools Used
 
 - Unreal Engine 4
 - Visual Studio
 - Adobe Photoshop
 - GIMP
 
-Reflection
+## Reflection
 
 How would you describe the process of creating and polishing the artifact?
 
